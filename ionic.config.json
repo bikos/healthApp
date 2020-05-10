@@ -1,5 +1,7 @@
 {
   "name": "kinoMatics",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }
